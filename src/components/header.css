@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    background: #20232a;
+}
+
+.header h1 {
+    color: #fdfdfd;
+}
